@@ -1,2 +1,2 @@
-# Powr-BI-projects
-My projects in power BI
+# TMDP Analysis
+Analysing movies and it's genre , production company and measure it's success
